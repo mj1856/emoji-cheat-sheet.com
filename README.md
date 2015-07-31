@@ -52,7 +52,8 @@ A one pager listing the different emoji emoticons supported on
 [IGDB.com](https://www.igdb.com/forums),
 [ChatGrape](https://chatgrape.com),
 [Dokuwiki](https://github.com/squarefractal/githubemoji-dokuwiki),
-& [Usersnap](https://usersnap.com)
+[Usersnap](https://usersnap.com)
+& the [EmojiVS plugin for Visual Studio](https://visualstudiogallery.msdn.microsoft.com/88575465-8486-4c5a-8406-05e8d1d5b09d)
 
 :point_right: Check them out at our home page: http://emoji-cheat-sheet.com.
 
